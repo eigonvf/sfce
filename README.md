@@ -1,2 +1,4 @@
 # sfce
-Simple flowchart editor
+
+Редактор блок-схем
+
